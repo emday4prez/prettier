@@ -1,3 +1,4 @@
+//react config
 {
   "semi": false,
   "trailingComma": "es5",
